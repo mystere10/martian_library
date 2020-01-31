@@ -1,17 +1,15 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# A collection of book and movie using Ruby on rails 6.0.2.1
+---
 
 * Ruby version
+> ruby '2.6.3'
 
 * System dependencies
 
 * Configuration
 
 * Database creation
+> rails db:create
 
 * Database initialization
 
@@ -21,4 +19,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
